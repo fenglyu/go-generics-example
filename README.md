@@ -6,6 +6,8 @@ Example code for Go generics.
 
 ```
 $ go build -gcflags=-G=3
+
+$ gotip run -gcflags=all=-G=3 main.go
 ```
 
 ## Requirements

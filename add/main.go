@@ -19,6 +19,9 @@ func main() {
     fmt.Println(add(1,2))
 
     // FIXME
-    //fmt.Println(add("foo","bar"))
+    fmt.Println(add("foo","bar"))
+    fmt.Println(add(1.4,2.8))
+    fmt.Println(add(1.4,2.8))
+    fmt.Println(add(int8(-1),int8(28)))
 }
 
